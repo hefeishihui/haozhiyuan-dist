@@ -9,7 +9,7 @@
       <array>
         <dict>
           <key>kind</key><string>software-package</string>
-          <key>url</key><string>https://github.com/hefeishihui/haozhiyuan-dist/releases/download/v1.3.0/HaoZhiyuan.ipa</string>
+          <key>url</key><string>https://gh-proxy.com/https://github.com/hefeishihui/haozhiyuan-dist/releases/download/v1.3.0/HaoZhiyuan.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
